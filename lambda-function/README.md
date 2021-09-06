@@ -2,8 +2,8 @@
 
 This project contains a zip file with the runtime environment of the test application, in binary format
 
- sample-project: App binary generated in Ubuntu 21.04
- bootstrap: execution file
+- sample-project: App binary generated in Ubuntu 21.04
+- bootstrap: execution file
 
 ## Prerequisites
 - An account AWS console
